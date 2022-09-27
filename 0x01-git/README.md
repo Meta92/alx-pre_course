@@ -1,1 +1,1 @@
-"I just made another commit"
+"I just changed the commit"
